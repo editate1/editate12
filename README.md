@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/vxFNoJHV3I4AAAAC/tenor.gif)](https://rishavchanda.io)
+[![MasterHead](https://c.tenor.com/vxFNoJHV3I4AAAAC/tenor.gif)](https://i.pinimg.com/originals/86/7e/12/867e12ed10ad2da375381f7fc608d1d6.gif)
 <h1 align="center">Hi 👋, I'm Editate</h1>
 <h3 align="center">cs student, developer who has great passion for games</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/kcHaBacZcF0lrH3cm6.webp">
